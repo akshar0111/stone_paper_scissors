@@ -20,5 +20,4 @@ MATCH TIE
 
 
 do you want to play again ? press "y" for yes and "n" for no
-y
 ________________________________________
